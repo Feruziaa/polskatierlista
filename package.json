@@ -1,5 +1,5 @@
 {
-  "name": "minecraft-tierlist2",
+  "name": "minecraft-tierlist",
   "version": "1.0.0",
   "scripts": {
     "dev": "next dev",
