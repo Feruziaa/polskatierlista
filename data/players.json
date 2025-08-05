@@ -20,5 +20,16 @@
       { "name": "HT3", "icon": "HT3.png" },
       { "name": "LT3", "icon": "LT3.png" }
     ]
+  },
+    {
+    "name": "podrzucenie",
+    "points": 226,
+    "skin": "Obrotowiec.png",
+    "tiers": [
+      { "name": "HT1", "icon": "HT1.png" },
+      { "name": "HT2", "icon": "HT2.png" },
+      { "name": "HT3", "icon": "HT3.png" },
+      { "name": "LT3", "icon": "LT3.png" }
+    ]
   }
 ]
