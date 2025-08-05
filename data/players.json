@@ -1,1 +1,24 @@
-// placeholder
+[
+  {
+    "name": "janekv",
+    "points": 360,
+    "skin": "janekv.png",
+    "tiers": [
+      { "name": "HT1", "icon": "HT1.png" },
+      { "name": "LT1", "icon": "LT1.png" },
+      { "name": "HT3", "icon": "HT3.png" },
+      { "name": "HT4", "icon": "HT4.png" }
+    ]
+  },
+  {
+    "name": "Obrotowiec",
+    "points": 246,
+    "skin": "Obrotowiec.png",
+    "tiers": [
+      { "name": "HT1", "icon": "HT1.png" },
+      { "name": "HT2", "icon": "HT2.png" },
+      { "name": "HT3", "icon": "HT3.png" },
+      { "name": "LT3", "icon": "LT3.png" }
+    ]
+  }
+]
